@@ -7,7 +7,8 @@ these are my config files for my GNU/linux distro :)!.<br>
   <li><strong>Bar:</strong> <a href="https://github.com/Alexays/Waybar">waybar</a></li>
   <li><strong>Term:</strong> <a href="https://github.com/](https://codeberg.org/dnkl/foot)">foot</a></li>
   <li><strong>File manager UI:</strong><a href="https://wiki.archlinux.org/title/Dolphin"> dolphin (default)</a></li>
-  <li><strong>App Menu:</strong>wofi</li>
+  <li><strong>App Menu:</strong> wofi</li>
+  <li><strong>Browser:</strong> <a href="https://github.com/Alex313031/thorium"></a>thorium</li>
 </ul>
 <br>
 
