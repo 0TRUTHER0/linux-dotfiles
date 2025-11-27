@@ -1,5 +1,5 @@
 ## Hey there!<br>
-these are my setup config files on  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/27aaca25-2967-46be-93d0-2e2ee56afaa0" />
+these are my setup config files on  <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/27aaca25-2967-46be-93d0-2e2ee56afaa0" />
  Archlinux :)!.<br>
 ## Features
 <ul>
