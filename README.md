@@ -1,5 +1,6 @@
 ## Hey there!<br>
-these are my config files for my GNU/linux distro :)!.<br>
+these are my setup config files on  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/27aaca25-2967-46be-93d0-2e2ee56afaa0" />
+ Archlinux :)!.<br>
 ## Features
 <ul>
   <li><strong>OS:</strong> <a href="https://archlinux.org">Archlinux</a></li>
