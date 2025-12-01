@@ -10,6 +10,7 @@ these are my setup config files on  <img width="10" height="10" alt="image" src=
   <li><strong>File manager UI:</strong><a href="https://wiki.archlinux.org/title/Dolphin"> dolphin (default)</a></li>
   <li><strong>App Menu:</strong> wofi</li>
   <li><strong>Browser:</strong> <a href="https://github.com/Alex313031/thorium">thorium</a></li>
+  <li><strong>Editor:</strong> <a href="https://zed.dev/">zed</a></li>
 </ul>
 <br>
 
